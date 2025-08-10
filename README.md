@@ -1,1 +1,1 @@
-# git-conflict こんにちは！
+# git-conflict hi!
